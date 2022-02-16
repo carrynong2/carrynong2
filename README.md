@@ -1,10 +1,8 @@
-## 🧔🏻 Nattapon Pondongnok
+## Hi, I'm Nong (Alias: carrynong)
 
-Fullstack Software Engineer
-🇹🇭 Bangkok, THAILAND
+Fullstack Software Engineer, THAILAND
 
 - Mobile 
-  - iOS (Swift)
   - Android (Kotlin)
   - Flutter (Dart)
 
@@ -12,23 +10,15 @@ Fullstack Software Engineer
   - Frontend (JavaScript, TypeScript)
     - React
     - Vue.js
-    - Angular
   - Backend (Restful API, graphQL, Micro Service)
     - Express (JavaScript, TypeScript)
-    - Laravel (php)
-    - Spring boot (Java, Kotlin)
-    - Gin (golang)
-    - Ruby on rails (Ruby)
 
 - Database
   - SQL
-    - MariaDB, MySQL
-    - PostgresQL
+    - MySQL
   - NoSQL
     - MongoDB
     - Firebase Cloud Firestore
-  - In memory
-    - Redis
     
 - DevOps
   - CI
