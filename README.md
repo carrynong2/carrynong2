@@ -1,6 +1,6 @@
-## Hi, I'm Nong (Alias: carrynong) I'm still Self-Taught Developer because all topics I can't learn from School but from experience.
+## Hi, I'm Nong (Alias: carrynong) 
 
-Fullstack Developer, THAILAND
+I'm still Self-Taught Developer because all topics I can't learn from School but from experience.
 
 - Web
   - Frontend (JavaScript, TypeScript)
