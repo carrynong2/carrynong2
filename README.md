@@ -1,6 +1,6 @@
 ## Hi, I'm Nong (Alias: carrynong) 
 
-I'm still Self-Taught Developer because all topics I can't learn from School but from experience.
+I'm still Self-Taught Developer because all topics I can't learn from School but from self-learning.
 
 - Web
   - Frontend (JavaScript, TypeScript)
