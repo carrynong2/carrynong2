@@ -1,6 +1,6 @@
 ## Hi, I'm Nong (Alias: carrynong)
 
-Fullstack Software Engineer, THAILAND
+Fullstack Developer, THAILAND
 
 - Web
   - Frontend (JavaScript, TypeScript)
