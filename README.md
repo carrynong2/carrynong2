@@ -1,16 +1,38 @@
-### Hi there 👋
+## 🧔🏻 Nattapon Pondongnok
 
-<!--
-**carrynong2/carrynong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Software Engineer
+🇹🇭 Bangkok, THAILAND
 
-Here are some ideas to get you started:
+- Mobile 
+  - iOS (Swift)
+  - Android (Kotlin)
+  - Flutter (Dart)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Web
+  - Frontend (JavaScript, TypeScript)
+    - React
+    - Vue.js
+    - Angular
+  - Backend (Restful API, graphQL, Micro Service)
+    - Express (JavaScript, TypeScript)
+    - Laravel (php)
+    - Spring boot (Java, Kotlin)
+    - Gin (golang)
+    - Ruby on rails (Ruby)
+
+- Database
+  - SQL
+    - MariaDB, MySQL
+    - PostgresQL
+  - NoSQL
+    - MongoDB
+    - Firebase Cloud Firestore
+  - In memory
+    - Redis
+    
+- DevOps
+  - CI
+    - Github Actions
+    - Gitlab CI
+  - Docker
+  - Kubernetes (K8S)
