@@ -2,10 +2,6 @@
 
 Fullstack Software Engineer, THAILAND
 
-- Mobile 
-  - Android (Kotlin)
-  - Flutter (Dart)
-
 - Web
   - Frontend (JavaScript, TypeScript)
     - React
