@@ -21,8 +21,5 @@ Fullstack Software Engineer, THAILAND
     - Firebase Cloud Firestore
     
 - DevOps
-  - CI
-    - Github Actions
-    - Gitlab CI
   - Docker
   - Kubernetes (K8S)
