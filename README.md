@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Monthon Mukkun</h1>
-<h2 align="center">A student who loves algorithm and backend development</h2>
+<h1 align="center">Hi 👋, I'm Monthon Mukkun A student who loves algorithm and backend development</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
